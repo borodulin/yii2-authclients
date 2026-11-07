@@ -1,6 +1,8 @@
 AuthClient Extension for Yii 2
 ==============================
 
+> **This package is abandoned and no longer maintained.**
+
 Installation
 ------------
 
